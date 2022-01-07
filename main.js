@@ -21,6 +21,7 @@ function modelLoaded(){
     console.log("POSENET IS LOADED!")
 }
 function draw(){
+    background("grey");
     fill("hotpink")
     stroke("black")
     strokeWeight(6)
